@@ -3,8 +3,8 @@
 🎓 AI 应用开发者 | 数据工程师  
 🔭 近期项目：[ChatBI](https://github.com/Kinaoo/chatbi-project) – 对话式数据分析平台  
 🌱 正在学习：实时流计算、时序预测、LLM 应用开发  
-💼 求职方向：AI 应用开发 / 数据工程师  
-📫 联系我：`你的邮箱` 或 [个人博客/领英链接]
+💼 求职方向：AI 应用开发 / 数据工程师  / 数据库工程师
+📫 联系我：`3075689381@qq.com` 
 
 ## 🚀 技术栈
 - Python, SQL, Streamlit, Docker
