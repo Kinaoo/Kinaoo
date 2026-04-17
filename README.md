@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Kinaoo
 
-<!--
-**Kinaoo/Kinaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI 应用开发者 | 数据工程师  
+🔭 近期项目：[ChatBI](https://github.com/Kinaoo/chatbi-project) – 对话式数据分析平台  
+🌱 正在学习：实时流计算、时序预测、LLM 应用开发  
+💼 求职方向：AI 应用开发 / 数据工程师  
+📫 联系我：`你的邮箱` 或 [个人博客/领英链接]
 
-Here are some ideas to get you started:
+## 🚀 技术栈
+- Python, SQL, Streamlit, Docker
+- LLM (GLM-4, DeepSeek), LangChain, RAG
+- Pandas, Matplotlib, Seaborn
+- Redis, SQLite, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 置顶项目
+- [ChatBI](https://github.com/Kinaoo/chatbi-project) – 自然语言取数 + 自动图表 + 多轮对话
+
+## 📊 GitHub 统计
+![Kinaoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinaoo&show_icons=true&theme=radical)
